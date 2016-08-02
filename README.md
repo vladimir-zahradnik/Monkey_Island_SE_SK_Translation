@@ -1,2 +1,2 @@
-# Monkey_Island_SE_SK_Translation
+# The Secret of Monkey Island Special Edition SK Translation
 Unofficial Slovak translation for The Secret of Monkey Island: Special Edition
